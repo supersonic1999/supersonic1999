@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Jason! 👋</b></h1>
 </p>
 
 <p>
@@ -56,4 +56,4 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=supersonic81&show_icons=true&hide_border=true&theme=dark" alt="SuperSonic1999's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=supersonic1999&show_icons=true&hide_border=true&theme=dark" alt="SuperSonic1999's Github Stats" width="60%">
